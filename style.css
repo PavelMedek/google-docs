@@ -1,0 +1,8 @@
+@tailwind components;
+
+@layer components{
+    .optinion{
+        @apply cursor-pointer hover:bg-gray-100 ;
+    }
+}
+
